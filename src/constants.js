@@ -39,7 +39,7 @@ export const PORTFOLIO_DATA = {
     },
     {
       id: 3,
-      title: "Analytics Dashboard",
+      title: "fake web site detection",
       description: "An interactive analytics dashboard for visualizing complex data with charts and real-time updates.",
       tech: ["React", "Chart.js", "Node.js"],
       link: "https://example.com",
